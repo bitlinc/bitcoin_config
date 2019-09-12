@@ -1,5 +1,3 @@
-# bitcoin.conf
-
 # bitcoind MAINNET configuration
 # /home/bitcoin/.bitcoin/bitcoin.conf
 
