@@ -1,4 +1,4 @@
-# bitcoind MAINNET configuration
+# bitcoind configuration
 # /home/bitcoin/.bitcoin/bitcoin.conf
 
 
@@ -7,7 +7,7 @@
 
  # Bitcoind options
  server=1
- daemon=1
+ 
 
  # Connection settings
  rpcuser=bitcoinmainnetusername
@@ -38,7 +38,7 @@
 
  #Bitcoind options
  server=1
- daemon=1
+ 
 
  #Connection settings
  rpcuser=bitcointestnetusername
