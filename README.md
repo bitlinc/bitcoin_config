@@ -1,4 +1,4 @@
-# bitcoind configuration
+# bitcoind configuration for mainnet and testnet
 # /home/bitcoin/.bitcoin/bitcoin.conf
 
 
