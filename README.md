@@ -12,6 +12,8 @@
  # Connection settings
  rpcuser=bitcoinmainnetusername
  rpcpassword=bitcoinmainnetpassword
+ rpcconnect=127.0.0.1
+ rpcport=8332
  onlynet=ipv4
  zmqpubrawblock=tcp://127.0.0.1:29000
  zmqpubrawtx=tcp://127.0.0.1:29001
@@ -44,6 +46,8 @@
  #Connection settings
  rpcuser=bitcointestnetusername
  rpcpassword=bitcointestnetpassword
+ rpcconnect=127.0.0.1
+ rpcport=18332
  onlynet=ipv4
  zmqpubrawblock=tcp://127.0.0.1:28332
  zmqpubrawtx=tcp://127.0.0.1:28333
